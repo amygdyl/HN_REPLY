@@ -1,0 +1,131 @@
+Presumably, you mean if you were to build - on Azure - a service in competition with other MS or Azure service offerings, does
+this mean that Microsoft's IP clauses would indemnify you by the given right to assume a choice of patent from their portfolio,
+to counter Microsoft's suit or potential suit for infringement, if you *in your service created new IP that Microsoft
+challenges*?
+
+First of all, the concept of offering a customer indemnity against your own actions, through assignment of one of the 10,000
+patents, would likely be seen to create a nullity [0].
+
+Such a situation appears strongly to create a number of nullities, which would bar estoppel relief or relief in claim.
+
+The most clear logical nullity, is in the generally conceived arrangement of insurance or risk mitigation:
+
+Here Microsoft is 1. both the issuer of a form of indemnity insurance, as well as the licensor of certain rights under "IP
+protection"; 2. potentially the licensor - assignor or further IP in the form of a selectively chosen patent, explicitly offered
+in the event of that being of utility to defense of litigation against the contracted licensee (Azure customer) where a 3rd
+party asserts infringement of their patent rights and - strongly implied enough to be a clause read into this agreement by
+practical consideration - there exists a patent within the Microsoft portfolio that either stands as prior art, or can be
+brought to bear in litigation where the 3rd party aggressor is liable to infringe this patent, providing the basis for counter
+suit. 
+
+The logic of any insurance is to indemnify another against third party unforeseen events, usually excluding "acts of God", and
+typically also excluding reasonably foreseeable events, such as leaving your keys in the ignition.
+
+ - In developing your new service, is the potential for infringement of Microsoft IP foreseen as a likelihood in any event?
+
+ - the customer of Azure, spending the agreed minimum amounts, already benefits from license or implied license of Microsoft IP,
+ under what grounds can Microsoft claim infringement?
+
+ - does, in fact, any natural aspect of a "insurance clause" apply where thee is no actual 3rd party?
+
+ - from whom would, under this "insurance", the Azure customer, seek relief?
+
+Having not fully read this contract in a formal setting, nonetheless I hope I shall be free to report openly, once we have, as
+we're very interested in actually developing a service we think might only be possible with Azure, only fitting for users of
+Azure really, but extending and modifying certain software characteristics that could be, in fact we may desire to be, directly
+compared with existing Azure services*[1]
+
+My appreciation is that the whole idea of indemnification from action by Microsoft, is a nullity by fact of inability to
+construct a logical contract, and further the first remedy of Microsoft might in fact be to break the contract, rendering any
+protection void. 
+
+Where it gets a little stickier, is if a Azure customer infringes a very strong, valuable, 3rd party patent, *and in so
+infringing, the use of Azure facilities is ruled - plausibly we think only in a lower court, before full arguments are heard,
+but with litigation so slow, this is a important bit of "potential limbo" - ruled as being enabling of the infringement.
+
+This would have to be such that if neither a specific function of Azure nor this "insurance" existed, this customer of Azure
+would not have been able to *willingly and knowingly* infringe a big 3rd party patent, and the net result is that Microsoft
+enjoins the 3rdparty action against the Azure customer.
+
+This might have to be a real exception, where it makes sense for Microsoft to argue that its IP use grant and indemnity have
+been misused knowingly and wrongly as the basis for willful infringement for this 3rd party patent - giving rise to 3rd party
+suing you, 3rd party suing MS who joins to sue you for costs and liability thru misuse of their offerings.
+
+/// assuming a whole lot of conditions, but to hand wave a vague idea: thus far no Azure customer has gone to market competing
+with a deeply patent fenced product, such as CAD/CAM/CAE or such like, where extremely valuable patents exist. Imagine if there
+were patents in Microsoft's graphics libraries, or even their license of OpenGL, without which you could not compete at all, but
+one of which functions you could build a Azure - run product on, that targets a core AutoCAD customer base. 
+
+This is, or may seem at first, really theoretical, but when writing for the desktop, the reason Windows has a advantage, often
+is simply the licenses to use libraries embedding accumulated IP like this
+
+But now we want to go beyond a G series server delivering remote applications, and do something about the unfortunate poverty of
+graphics APIs in Azure that are anything like as useful as on Windows. 
+
+Getting a touch more specific: the ability to virtualize apps remotely, is a highly attractive prospect, right down to being
+able to set Group Policy to check against defined stores (which can be read only - really excellent use for optical drives on
+the network!) for application signatures, and keeps us on Windows. But although it feels like full circle to OLE, we really want
+to have our full app as a Azure service, for very strong economic reasons, roughly being this market desperately needs open
+platforms but so high a degree of varietal implementations, even extensible desktop apps limit)  . And the shear breadth of
+potential attack service when considering a Azure "app" that actually condenses a entire enterprise wide/deep stack of utility,
+really almost invites pot shot from well funded incumbents.
+
+i'll for obvious reasons not cite example closer to our speculation, which is just speculation, but then all interest in this
+indemnity is the same, and of considerable practical interest, because some i speak to certainly think it changes the software
+market significantly. I mean, really significantly. My spine twitched in a very positive way, in reaction to the new Microsoft
+policies, because in theory, we could be delivering onto Linux desktops by choice - and in our market, Linux, even Solaris, is a
+extremely large proportion of end user attention & activity. (trading, big local databases, need to on-prem v cloud at will,
+latency / location requirements, yet also unusually high need to exist in a ecosystem for data capture that is firmly cloud).
+Even generally, i think the move is for Microsoft to use Windows as the value add, (see Secure Productive Enterprise for a
+license deal VARs don't want to sell because it replaces a huge stack for a modest cellular contract cost) but enable developers
+to leverage Windows / dot Net as well as OSS without compunction as to end user environment. The specialisms involved in e.g.
+great UX for handheld/wrist/voice UI so incline the chances of encountering strong required 3rd party IP, that the net benefit
+we hope Microsoft is trying to deliver is applicable even where you write for Linux, but find delivery smoothed by Azure -
+something we are finding ad hoc, but increasingly often. 
+
+I hope, that by trying to show a path with a very vague example of my thinking, that I have shown how the question is either a
+very moot one, or else one intensely strategic, serious, and complicated. 
+
+So, the outcomes are ternary: the indemnity is worthless; the indemnity by putative assignment of a defensive patent has some
+limited use, but you are defending not Microsoft directly, but MS + 3rd party; or "highly dependent on strategic evaluation".
+
+I do not think that this contracts provides any straightforward indemnity against adverse action initiated by Microsoft,
+however. Simply nothing in the context or wording leans towards supporting that interpretation.
+
+However, in the event that Microsoft initiated suit claiming infringement of one of the portfolio of 10,000 patents covered by
+the clauses within this contract, clearly the siutuation created by the contract would become a nullity. 
+
+So, in dealing with 3rd party risks, the result could be quite open to interpretation, at least in early stage litigation.
+
+However, as to your question on face value (and making a number of assumptions) then the answer is - if these assumptions became
+fact, in particular the tort for infringement cited a patent among the 10,000 portfolio, then, yes, this would constitute
+effective, but implied, mitigation and defense, which if the relevant clauses were enacted, and defense argued, would create a
+nullity.
+
+How this benefit for customers of Azure actually plays out, if it in fact is ever played out, might never encompass as risky and
+interesting a scenario as that which I in passing posit. But I believe that in potential, Microsoft might have done a extremely
+positive, open minded and market generative, act, in offering this standard term.
+
+It gets more interesting, if you consider the possibility of two Azure customers, suing for infringement, where Microsoft IP
+might come "in between" their claims. 
+
+I have a tingling in my spine, thinking of the possibility, however so slight, that Microsoft created a perfect "Doomsday
+Device", in true Dr. Strangelove terms. If only they had told someone about it.. 
+
+Forgive me if my humor is as obtuse as IP law, at best, but it is so clearly in Microsoft's interests to  be able to charge fees
+whilst opening their IP to leverage creating new markets, whilst quietly making their old monopoly platform a quite different
+value add platform, but as essentially useful to many if not most corporate, and letting Linux devotees use private IP with -
+effective freedoms - almost as liquid as the OSS culture requires, they, well - yes - I do see the way Redmond might enact use
+of this clause as a blanket shelter for developers, even at considerable expense. The logic seems to justify every penny of such
+a umbrella protection. If one day, maybe even soon, a customary Linux developer throws their applications open to a corporate
+world using Azure for delivery, and are strongly protected from a aggressive incumbent long in the Windows ecosystem, then we
+will see how serious Microsoft is about fairly opening up their ecosystems for new business. That could be a marquee day, for
+many reasons we have long hoped for, regardless of where we stand on the software debates.
+
+
+[0] https://en.wikipedia.org/wiki/Legal_nullity
+
+[1] this began simply, by long waiting for Azure Functions (AWS Lambda, only considerably more flexible) and wanting to extend
+those with our own IP and data APIs, but essentially selling a service that is Functions + some sweet extra sauce that
+compliments the tastes of the dishes our customers want to cook. In particular, we want our customers to extend and even white
+label (potentially) our "Functions++". 
